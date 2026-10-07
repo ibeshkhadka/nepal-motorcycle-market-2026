@@ -7,9 +7,9 @@ Explore 20 Nepal-market motorcycle companies, with a dedicated page for each bra
 ## Features
 
 - 142 mapped model/family entries, with current and historical evidence scopes
-- Company pages, model/family search, segment filters and research CSV export
+- Company pages, model/family search and research CSV export
 - Star buttons and a Favorites view
-- Responsive layout and dark mode
+- Minimal responsive layout, with research controls in expandable notes
 - Source/availability labels and direct official Nepal links
 
 ## Favorites on GitHub Pages
