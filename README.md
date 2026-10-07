@@ -9,7 +9,8 @@ Explore 20 Nepal-market motorcycle companies, with a dedicated page for each bra
 - 142 mapped model/family entries, with current and historical evidence scopes
 - Company pages, model/family search and research CSV export
 - Star buttons and a Favorites view
-- Minimal responsive layout, with research controls in expandable notes
+- Responsive editorial design with locally hosted Manrope/Fraunces fonts and simple SVG icons
+- Research controls in expandable notes
 - Source/availability labels and direct official Nepal links
 
 ## Favorites on GitHub Pages
@@ -29,3 +30,7 @@ A push to `main` triggers `.github/workflows/pages.yml`, builds the static site 
 ## Research scope
 
 Petrol motorcycles marketed in Nepal; scooters, EV scooters and three-wheelers are excluded. The research/source checks are dated 5 October 2026. A catalogue or market listing does not guarantee dealer stock. Combined family entries and official catalogue/importer fallbacks are labelled. Source URLs and availability notes are included in the research data.
+
+## Font licenses
+
+Manrope and Fraunces are bundled as compact WOFF2 files under `src/assets/fonts/`. Both use the SIL Open Font License; their license files are included alongside the fonts. The site makes no external font requests.
